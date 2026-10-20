@@ -1,0 +1,6 @@
+# Everything people post. Never commit it.
+photobook-data/
+
+# System files
+.DS_Store
+Thumbs.db
