@@ -46,7 +46,7 @@ Hosts that only serve static files, like GitHub Pages or a static Netlify site, 
 
 ### 1. Download it
 
-Download the zip from the [latest release](../../releases/latest), or click the green **Code** button on this page and choose **Download ZIP**. You only need two files from it: `index.html` and `api.php`.
+[**Download the zip**](https://github.com/jordanbgeach/School-Photobook-Website/archive/refs/heads/main.zip) (or click the green **Code** button on this page and choose **Download ZIP**), then unzip it. You only need two files from it: `index.html` and `api.php`.
 
 ### 2. Upload the two files
 
